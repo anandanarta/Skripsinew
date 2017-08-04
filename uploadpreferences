@@ -1,0 +1,9 @@
+<?php
+$SurveyName = "Susenas2017";
+$servername = "localhost:3306";	
+$username = "root";
+$password = "";
+$dbname = $SurveyName;
+$tablename = $dbname."_preference"; 
+
+?>
